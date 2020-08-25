@@ -52,7 +52,7 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 0, 10000);
+        $sample_excel = array_slice($zipcode, 0, 9500);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
@@ -65,7 +65,7 @@ class Zipcode extends Controller
 
         /* =================================================================================================*/
         // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 10000);
+        // $sample_json = array_slice($villages, 0, 9500);
         // dd($sample_json);
         // foreach ($sample_json as $json) {
         //     echo $json['name'] . '<br>';
@@ -117,7 +117,7 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 10000, 10000);
+        $sample_excel = array_slice($zipcode, 9500, 9500);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
@@ -130,7 +130,7 @@ class Zipcode extends Controller
 
         /* =================================================================================================*/
         // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 10000);
+        // $sample_json = array_slice($villages, 0, 9500);
         // dd($sample_json);
         // foreach ($sample_json as $json) {
         //     echo $json['name'] . '<br>';
@@ -182,7 +182,7 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 20000, 10000);
+        $sample_excel = array_slice($zipcode, 19000, 9500);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
@@ -195,7 +195,7 @@ class Zipcode extends Controller
 
         /* =================================================================================================*/
         // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 10000);
+        // $sample_json = array_slice($villages, 0, 9500);
         // dd($sample_json);
         // foreach ($sample_json as $json) {
         //     echo $json['name'] . '<br>';
@@ -247,7 +247,7 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 30000, 10000);
+        $sample_excel = array_slice($zipcode, 28500, 9500);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
@@ -260,7 +260,7 @@ class Zipcode extends Controller
 
         /* =================================================================================================*/
         // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 10000);
+        // $sample_json = array_slice($villages, 0, 9500);
         // dd($sample_json);
         // foreach ($sample_json as $json) {
         //     echo $json['name'] . '<br>';
@@ -312,7 +312,7 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 40000, 10000);
+        $sample_excel = array_slice($zipcode, 38000, 9500);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
@@ -325,7 +325,7 @@ class Zipcode extends Controller
 
         /* =================================================================================================*/
         // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 10000);
+        // $sample_json = array_slice($villages, 0, 9500);
         // dd($sample_json);
         // foreach ($sample_json as $json) {
         //     echo $json['name'] . '<br>';
@@ -377,7 +377,7 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 50000, 10000);
+        $sample_excel = array_slice($zipcode, 47500, 9500);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
@@ -390,7 +390,7 @@ class Zipcode extends Controller
 
         /* =================================================================================================*/
         // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 10000);
+        // $sample_json = array_slice($villages, 0, 9500);
         // dd($sample_json);
         // foreach ($sample_json as $json) {
         //     echo $json['name'] . '<br>';
@@ -442,7 +442,7 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 60000, 10000);
+        $sample_excel = array_slice($zipcode, 57000, 9500);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
@@ -455,7 +455,7 @@ class Zipcode extends Controller
 
         /* =================================================================================================*/
         // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 10000);
+        // $sample_json = array_slice($villages, 0, 9500);
         // dd($sample_json);
         // foreach ($sample_json as $json) {
         //     echo $json['name'] . '<br>';
@@ -507,7 +507,7 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 70000, 10000);
+        $sample_excel = array_slice($zipcode, 66500, 9500);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
@@ -520,7 +520,7 @@ class Zipcode extends Controller
 
         /* =================================================================================================*/
         // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 10000);
+        // $sample_json = array_slice($villages, 0, 9500);
         // dd($sample_json);
         // foreach ($sample_json as $json) {
         //     echo $json['name'] . '<br>';
@@ -572,7 +572,7 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 80000, 10000);
+        $sample_excel = array_slice($zipcode, 76000, 9500);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
@@ -585,7 +585,7 @@ class Zipcode extends Controller
 
         /* =================================================================================================*/
         // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 10000);
+        // $sample_json = array_slice($villages, 0, 9500);
         // dd($sample_json);
         // foreach ($sample_json as $json) {
         //     echo $json['name'] . '<br>';

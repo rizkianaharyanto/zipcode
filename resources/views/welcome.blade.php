@@ -70,6 +70,44 @@
 <body>
     <div class="flex-center">
         @if(!empty($success))
+        <h1 style="color:blue">
+            {{$nama}}
+            {{ $success }}
+        </h1>
+        @endif
+        
+        @if(!empty($successdis))
+        <h1 style="color:blue">
+            {{$nama}}
+            {{ $successdis }}
+        </h1>
+        @endif
+    </div>
+    <div class="flex-center">
+        <h1>Zipcode</h1>
+        <form style="margin:20px" action="/zipcode" method="get">
+            @csrf
+            nama file output : <input type="text" name="output">
+            start : <input type="text" name="start">
+            jumlah : <input type="text" name="jumlah">
+            <button type="submit">run</button>
+        </form>
+    </div>
+    
+    <div class="flex-center">
+        <h1>District</h1>
+        <form style="margin:20px" action="/district" method="get">
+            @csrf
+            nama file input : <input type="text" name="output">
+            nama file output : <input type="text" name="outputfix">
+            <button type="submit">run</button>
+        </form>
+    </div>
+
+
+    <!-- </div>
+    <div class="flex-center">
+        @if(!empty($success))
         {{ $success }}
         @else
         <a href="/zipcode" style="margin:20px;">zipcode</a>
@@ -161,7 +199,7 @@
         @else
         <a href="/district8" style="margin:20px;">district8</a>
         @endif
-    </div>
+    </div> -->
 </body>
 
 </html>

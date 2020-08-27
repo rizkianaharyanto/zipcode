@@ -6,13 +6,13 @@ use Illuminate\Http\Request;
 
 class District extends Controller
 {
-    public function search()
+    public function search(Request $request)
     {
         $array = $fields = array();
         $i = 0;
         //=================================================================================================
         // data yg ada zipcodenya
-        $zipcode = json_decode(file_get_contents("../public/assets/output.json", "r"), true);
+        $zipcode = json_decode(file_get_contents("../public/assets/".$request->output.".json", "r"), true);
         //=================================================================================================
 
         //=================================================================================================
@@ -28,10 +28,10 @@ class District extends Controller
         }
 
         $out = json_encode($merge);
-        $output = fopen("../public/assets/outputfix.json", "w");
+        $output = fopen("../public/assets/".$request->outputfix.".json", "w");
         fwrite($output, $out);
         fclose($output);
-        return view('welcome')->with('successdis', 'done!');
+        return view('welcome', [ 'nama' => $request->outputfix, ])->with('successdis', 'done!');
     }
 
     public function search1()

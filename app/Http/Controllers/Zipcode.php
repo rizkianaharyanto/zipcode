@@ -7,7 +7,7 @@ use Illuminate\Http\Response;
 
 class Zipcode extends Controller
 {
-    public function search()
+    public function search(Request $request)
     {
         $array = $fields = array();
         $i = 0;
@@ -52,16 +52,17 @@ class Zipcode extends Controller
 
         //ambil data yg excel
         $merge = array();
-        $sample_excel = array_slice($zipcode, 0, 9500);
+        $sample_excel = array_slice($zipcode, $request->start, $request->jumlah);
         foreach ($sample_excel as $excel) {
             array_push($merge, $this->search_json($excel['Kelurahan/village'], $excel['Postal Code'], $villages));
         }
 
         $out = json_encode($merge);
-        $output = fopen("../public/assets/output.json", "w");
+        $output = fopen("../public/assets/".$request->output.".json", "w");
         fwrite($output, $out);
         fclose($output);
-        return view('welcome')->with('success','done!');
+        // return $out;
+        return view('welcome', [ 'nama' => $request->output, ])->with('success','done!');
 
         /* =================================================================================================*/
         // ambil data yg json

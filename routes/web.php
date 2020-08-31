@@ -16,6 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/baru', 'Baru@search');
+Route::get('/dis', 'Baru@searchdis');
 
 Route::get('/zipcode', 'Zipcode@search');
 Route::get('/zipcode1', 'Zipcode@search1');

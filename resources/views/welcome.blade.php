@@ -85,7 +85,7 @@
     </div>
     <div class="flex-center">
         <h1>Zipcode</h1>
-        <form style="margin:20px" action="/zipcode" method="get">
+        <form style="margin:20px" action="/baru" method="get">
             @csrf
             nama file output : <input type="text" name="output">
             start : <input type="text" name="start">
@@ -96,7 +96,7 @@
     
     <div class="flex-center">
         <h1>District</h1>
-        <form style="margin:20px" action="/district" method="get">
+        <form style="margin:20px" action="/dis" method="get">
             @csrf
             nama file input : <input type="text" name="output">
             nama file output : <input type="text" name="outputfix">

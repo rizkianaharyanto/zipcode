@@ -1,0 +1,2402 @@
+[
+    {
+        "district_id": "51.08.02",
+        "code": "51.08.02.2004",
+        "name": "RANGDU",
+        "zipcode": "81153"
+    },
+    {
+        "district_id": "51.08.02",
+        "code": "51.08.02.2003",
+        "name": "RINGDIKIT",
+        "zipcode": "81153"
+    },
+    {
+        "district_id": "51.08.02",
+        "code": "51.08.02.1015",
+        "name": "SERIRIT",
+        "zipcode": "81153"
+    },
+    {
+        "district_id": "51.08.02",
+        "code": "51.08.02.2012",
+        "name": "SULANYAH",
+        "zipcode": "81153"
+    },
+    {
+        "district_id": "51.08.02",
+        "code": "51.08.02.2011",
+        "name": "TANGGUWISIA",
+        "zipcode": "81153"
+    },
+    {
+        "district_id": "51.08.02",
+        "code": "51.08.02.2002",
+        "name": "ULARAN",
+        "zipcode": "81153"
+    },
+    {
+        "district_id": "51.08.02",
+        "code": "51.08.02.2021",
+        "name": "UMEANYAR",
+        "zipcode": "81153"
+    },
+    {
+        "district_id": "51.08.02",
+        "code": "51.08.02.2001",
+        "name": "UNGGAHAN",
+        "zipcode": "81153"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01.2007",
+        "name": "ANTAP",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01.2001",
+        "name": "BAJERA",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01.2010",
+        "name": "BAJERA UTARA",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01.2004",
+        "name": "BEREMBENG",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01.2009",
+        "name": "MANIKYANG",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01.2003",
+        "name": "PUPUAN SAWAH",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01.2005",
+        "name": "SELEMADEG",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01----",
+        "name": "SERAMPINGAN",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01.2002",
+        "name": "WANAGIRI",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.01",
+        "code": "51.02.01.2008",
+        "name": "WANAGIRI KAUH",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.07.07",
+        "code": "51.07.07.2008",
+        "name": "AMERTA BHUANA",
+        "zipcode": "80862"
+    },
+    {
+        "district_id": "51.07.07",
+        "code": "51.07.07.2003",
+        "name": "DUDA",
+        "zipcode": "80862"
+    },
+    {
+        "district_id": "51.07.07",
+        "code": "51.07.07.2006",
+        "name": "DUDA TIMUR",
+        "zipcode": "80862"
+    },
+    {
+        "district_id": "51.07.07",
+        "code": "51.07.07.2005",
+        "name": "DUDA UTARA",
+        "zipcode": "80862"
+    },
+    {
+        "district_id": "51.07.07",
+        "code": "51.07.07.2001",
+        "name": "MUNCAN",
+        "zipcode": "80862"
+    },
+    {
+        "district_id": "51.07.07",
+        "code": "51.07.07.2007",
+        "name": "PERING SARI",
+        "zipcode": "80862"
+    },
+    {
+        "district_id": "51.07.07",
+        "code": "51.07.07.2004",
+        "name": "SEBUDI",
+        "zipcode": "80862"
+    },
+    {
+        "district_id": "51.07.07",
+        "code": "51.07.07.2002",
+        "name": "SELAT",
+        "zipcode": "80862"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2004",
+        "name": "BEBETIN",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2013",
+        "name": "BUNGKULAN",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2002",
+        "name": "GALUNGAN",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2014",
+        "name": "GIRI EMAS",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2009",
+        "name": "JAGARAGA",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2011",
+        "name": "KEROBOKAN",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2001",
+        "name": "LEMUKIH",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2007",
+        "name": "MENYALI",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2012",
+        "name": "SANGSIT",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2006",
+        "name": "SAWAN",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2003",
+        "name": "SEKUMPUL",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2010",
+        "name": "SINABUN",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2005",
+        "name": "SUDAJI",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "51.08.07",
+        "code": "51.08.07.2008",
+        "name": "SUWUG",
+        "zipcode": "81171"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "BANTAS",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "BERABAN",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "DALANG",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "GADUNG SARI",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "GADUNGAN",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "GUNUNG SALAK",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "MAMBANG",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "MEGATI",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "TANGGUNTITI",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "-----------------",
+        "code": "---------------------",
+        "name": "TEGAL MENGKEB",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2009",
+        "name": "ANGKAH",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2004",
+        "name": "ANTOSARI",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2011",
+        "name": "BENGKEL SARI",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2003",
+        "name": "LALANG LINGGAH",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2005",
+        "name": "LUMBUNG",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2006",
+        "name": "LUMBUNG KAUH",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2001",
+        "name": "MUNDEH",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2002",
+        "name": "MUNDEH KANGIN",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2008",
+        "name": "MUNDEH KAUH",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03.2010",
+        "name": "SELABIH",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.02.03",
+        "code": "51.02.03----",
+        "name": "TIYING GADING",
+        "zipcode": "82162"
+    },
+    {
+        "district_id": "51.07.01",
+        "code": "51.07.01.2004",
+        "name": "BESAKIH",
+        "zipcode": "80863"
+    },
+    {
+        "district_id": "51.07.01",
+        "code": "51.07.01.2003",
+        "name": "MENANGA",
+        "zipcode": "80863"
+    },
+    {
+        "district_id": "51.07.01",
+        "code": "51.07.01.2001",
+        "name": "NONGAN",
+        "zipcode": "80863"
+    },
+    {
+        "district_id": "51.07.01",
+        "code": "51.07.01.2005",
+        "name": "PEMPATAN",
+        "zipcode": "80863"
+    },
+    {
+        "district_id": "51.07.01",
+        "code": "51.07.01.2006",
+        "name": "PESABAN",
+        "zipcode": "80863"
+    },
+    {
+        "district_id": "51.07.01",
+        "code": "51.07.01.2002",
+        "name": "RENDANG",
+        "zipcode": "80863"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2008",
+        "name": "BANTIRAN",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2003",
+        "name": "BATUNGSEL",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2011",
+        "name": "BELATUNGAN",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2001",
+        "name": "BELIMBING",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10----",
+        "name": "JELIJIH PUNGGANG",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2013",
+        "name": "KARYA SARI",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2004",
+        "name": "KEBON PADANGAN",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2005",
+        "name": "MUNDUK TEMU",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2009",
+        "name": "PADANGAN",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2012",
+        "name": "PAJAHAN",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2006",
+        "name": "PUJUNGAN",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2007",
+        "name": "PUPUAN",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2014",
+        "name": "SAI",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.02.10",
+        "code": "51.02.10.2002",
+        "name": "SANDA",
+        "zipcode": "82163"
+    },
+    {
+        "district_id": "51.03.04",
+        "code": "51.03.04----",
+        "name": "BELOK",
+        "zipcode": "80353"
+    },
+    {
+        "district_id": "51.03.04",
+        "code": "51.03.04.2001",
+        "name": "CARANGSARI",
+        "zipcode": "80353"
+    },
+    {
+        "district_id": "51.03.04",
+        "code": "51.03.04.2005",
+        "name": "GETASAN",
+        "zipcode": "80353"
+    },
+    {
+        "district_id": "51.03.04",
+        "code": "51.03.04.2006",
+        "name": "PANGSAN",
+        "zipcode": "80353"
+    },
+    {
+        "district_id": "51.03.04",
+        "code": "51.03.04.2004",
+        "name": "PELAGA",
+        "zipcode": "80353"
+    },
+    {
+        "district_id": "51.03.04",
+        "code": "51.03.04.2002",
+        "name": "PETANG",
+        "zipcode": "80353"
+    },
+    {
+        "district_id": "51.03.04",
+        "code": "51.03.04.2007",
+        "name": "SULANGAI",
+        "zipcode": "80353"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08----",
+        "name": "BABAHAN",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2005",
+        "name": "BIAUNG",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2004",
+        "name": "BURUAN",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2013",
+        "name": "JATILUWIH",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2002",
+        "name": "JEGU",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08----",
+        "name": "MENGESTE",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2007",
+        "name": "PENATAHAN",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2010",
+        "name": "PENEBEL",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2017",
+        "name": "PESAGI",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2006",
+        "name": "PITRA",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2001",
+        "name": "REJASA",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2003",
+        "name": "RIANG GEDE",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2018",
+        "name": "SANGKETAN",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2012",
+        "name": "SENGANAN",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2015",
+        "name": "TAJEN",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08----",
+        "name": "TEGALINGGAH",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2008",
+        "name": "TENGKUDAK",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.02.08",
+        "code": "51.02.08.2014",
+        "name": "WONGAYA GEDE",
+        "zipcode": "82152"
+    },
+    {
+        "district_id": "51.01.03",
+        "code": "51.01.03.2003",
+        "name": "ASAHDUREN",
+        "zipcode": "82262"
+    },
+    {
+        "district_id": "51.01.03",
+        "code": "51.01.03.2006",
+        "name": "GUMBRIH",
+        "zipcode": "82262"
+    },
+    {
+        "district_id": "51.01.03",
+        "code": "51.01.03.2007",
+        "name": "MANGGISSARI",
+        "zipcode": "82262"
+    },
+    {
+        "district_id": "51.01.03",
+        "code": "51.01.03.2001",
+        "name": "MEDEWI",
+        "zipcode": "82262"
+    },
+    {
+        "district_id": "51.01.03",
+        "code": "51.01.03.2005",
+        "name": "PANGYANGAN",
+        "zipcode": "82262"
+    },
+    {
+        "district_id": "51.01.03",
+        "code": "51.01.03.2004",
+        "name": "PEKUTATAN",
+        "zipcode": "82262"
+    },
+    {
+        "district_id": "51.01.03",
+        "code": "51.01.03----",
+        "name": "PENGERAGOAN (PENGRAGOAN)",
+        "zipcode": "82262"
+    },
+    {
+        "district_id": "51.01.03",
+        "code": "51.01.03.2002",
+        "name": "PULUKAN",
+        "zipcode": "82262"
+    },
+    {
+        "district_id": "51.04.07",
+        "code": "51.04.07----",
+        "name": "BRESELA (BERESELA)",
+        "zipcode": "80572"
+    },
+    {
+        "district_id": "51.04.07",
+        "code": "51.04.07.2005",
+        "name": "BUAHAN",
+        "zipcode": "80572"
+    },
+    {
+        "district_id": "51.04.07",
+        "code": "51.04.07.2008",
+        "name": "BUAHAN KAJA",
+        "zipcode": "80572"
+    },
+    {
+        "district_id": "51.04.07",
+        "code": "51.04.07.2003",
+        "name": "BUKIAN",
+        "zipcode": "80572"
+    },
+    {
+        "district_id": "51.04.07",
+        "code": "51.04.07.2002",
+        "name": "KELUSA",
+        "zipcode": "80572"
+    },
+    {
+        "district_id": "51.04.07",
+        "code": "51.04.07.2006",
+        "name": "KERTA",
+        "zipcode": "80572"
+    },
+    {
+        "district_id": "51.04.07",
+        "code": "51.04.07.2001",
+        "name": "MELINGGIH",
+        "zipcode": "80572"
+    },
+    {
+        "district_id": "51.04.07",
+        "code": "51.04.07.2007",
+        "name": "MELINGGIH KELOD",
+        "zipcode": "80572"
+    },
+    {
+        "district_id": "51.04.07",
+        "code": "51.04.07.2004",
+        "name": "PUHU",
+        "zipcode": "80572"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2004",
+        "name": "BATUKANDIK",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2002",
+        "name": "BATUMADEG",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2008",
+        "name": "BATUNUNGGUL",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2016",
+        "name": "BUNGA MEKAR",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2013",
+        "name": "JUNGUTBATU",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2011",
+        "name": "KAMPUNG TOYAPAKEH",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2003",
+        "name": "KLUMPU",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2009",
+        "name": "KUTAMPI",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2015",
+        "name": "KUTAMPI KALER",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2012",
+        "name": "LEMBONGAN",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2010",
+        "name": "PED",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2014",
+        "name": "PEJUKUTAN",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2001",
+        "name": "SAKTI",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2005",
+        "name": "SEKARTAJI",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2007",
+        "name": "SUANA",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.05.01",
+        "code": "51.05.01.2006",
+        "name": "TANGLAD",
+        "zipcode": "80771"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.1006",
+        "name": "BALER BALE AGUNG",
+        "zipcode": "82212"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.2002",
+        "name": "BALUK",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.1008",
+        "name": "BANJAR TENGAH",
+        "zipcode": "82213"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.2003",
+        "name": "BANYUBIRU",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.2005",
+        "name": "BERANGBANG",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.2001",
+        "name": "CUPEL",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.2004",
+        "name": "KALIAKAH",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.1013",
+        "name": "LELATENG",
+        "zipcode": "82214"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.1014",
+        "name": "LOLOAN BARAT",
+        "zipcode": "82215"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.2011",
+        "name": "PENGAMBENGAN",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.2010",
+        "name": "TEGAL BADENG BARAT",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.01",
+        "code": "51.01.01.2009",
+        "name": "TEGAL BADENG TIMUR",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.1014",
+        "name": "ABIANBASE",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2008",
+        "name": "BAHA",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2002",
+        "name": "BUDUK",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2017",
+        "name": "CEMAGI",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2012",
+        "name": "GULINGAN",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.1004",
+        "name": "KAPAL",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2010",
+        "name": "KEKERAN",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02----",
+        "name": "KUWUM",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.1016",
+        "name": "LUKLUK",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2009",
+        "name": "MENGWI",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2003",
+        "name": "MENGWITANI",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2001",
+        "name": "MUNGGU",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2006",
+        "name": "PENARUNGAN",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2018",
+        "name": "PERERENAN",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.1015",
+        "name": "SADING",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2007",
+        "name": "SEMBUNG",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.1005",
+        "name": "SEMPIDI",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2011",
+        "name": "SOBANGAN",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2019",
+        "name": "TUMBAK BAYUH",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.03.02",
+        "code": "51.03.02.2013",
+        "name": "WERDI BHUWANA",
+        "zipcode": "80351"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2005",
+        "name": "DELOD BERAWAH",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2003",
+        "name": "MENDOYO DANGIN TUKAD",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2001",
+        "name": "MENDOYO DAUH TUKAD",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2007",
+        "name": "PENYARINGAN",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2004",
+        "name": "PERGUNG",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2002",
+        "name": "POHSANTEN",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.1006",
+        "name": "TEGAL CANGKRING",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2008",
+        "name": "YEH EMBANG",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2011",
+        "name": "YEH EMBANG KANGIN",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2010",
+        "name": "YEH EMBANG KAUH",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.02",
+        "code": "51.01.02.2009",
+        "name": "YEH SUMBUL",
+        "zipcode": "82261"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04----",
+        "name": "BLIMBINGSARI (BELIMBINGSARI)",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04.2007",
+        "name": "CANDIKUSUMA",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04.2004",
+        "name": "EKASARI",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04.1001",
+        "name": "GILIMANUK",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04.2010",
+        "name": "MANISTUTU",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04.2002",
+        "name": "MELAYA",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04.2005",
+        "name": "NUSA SARI",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04.2009",
+        "name": "TUKADAYA",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04.2008",
+        "name": "TUWED",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.01.04",
+        "code": "51.01.04.2006",
+        "name": "WARNASARI",
+        "zipcode": "82252"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2016",
+        "name": "BARU",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2004",
+        "name": "BATANNYUH",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2002",
+        "name": "BERINGKIT",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2010",
+        "name": "CAU BELAYU",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2015",
+        "name": "GELUNTUNG",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2001",
+        "name": "KUKUH",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2006",
+        "name": "KUWUM",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2008",
+        "name": "MARGA",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2013",
+        "name": "MARGA DAJAN PURI",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2014",
+        "name": "MARGA DAUH PURI",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2012",
+        "name": "PAYANGAN",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2003",
+        "name": "PEKEN",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2009",
+        "name": "PETIGA",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2007",
+        "name": "SELANBAWAK",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2005",
+        "name": "TEGALJADI",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.02.07",
+        "code": "51.02.07.2011",
+        "name": "TUA",
+        "zipcode": "82181"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2002",
+        "name": "ANTIGA",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2010",
+        "name": "ANTIGA KELOD",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2001",
+        "name": "GEGELANG",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2004",
+        "name": "MANGGIS",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2007",
+        "name": "NGIS",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2005",
+        "name": "NYUH TEBEL",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2009",
+        "name": "PADANGBAI",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03----",
+        "name": "PESEDAHAN",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2008",
+        "name": "SELUMBUNG",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2012",
+        "name": "SENGKIDU",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2006",
+        "name": "TENGANAN",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.07.03",
+        "code": "51.07.03.2003",
+        "name": "ULAKAN",
+        "zipcode": "80871"
+    },
+    {
+        "district_id": "51.03.06",
+        "code": "51.03.06.2005",
+        "name": "CANGGU",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.06",
+        "code": "51.03.06.2006",
+        "name": "DALUNG",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.06",
+        "code": "51.03.06.1002",
+        "name": "KEROBOKAN",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.06",
+        "code": "51.03.06.1003",
+        "name": "KEROBOKAN KAJA",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.06",
+        "code": "51.03.06.1001",
+        "name": "KEROBOKAN KELOD",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.06",
+        "code": "51.03.06.2004",
+        "name": "TIBUBENENG",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.05",
+        "code": "51.03.05.1004",
+        "name": "BENOA",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.05",
+        "code": "51.03.05.1006",
+        "name": "JIMBARAN",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.05",
+        "code": "51.03.05.2003",
+        "name": "KUTUH",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.05",
+        "code": "51.03.05.2001",
+        "name": "PECATU",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.05",
+        "code": "51.03.05.1005",
+        "name": "TANJUNG BENOA",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.05",
+        "code": "51.03.05.2002",
+        "name": "UNGASAN",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.01",
+        "code": "51.03.01.1003",
+        "name": "KEDONGANAN",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.01",
+        "code": "51.03.01.1002",
+        "name": "KUTA",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.01",
+        "code": "51.03.01.1004",
+        "name": "LEGIAN",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.01",
+        "code": "51.03.01.1005",
+        "name": "SEMINYAK",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.03.01",
+        "code": "51.03.01.1001",
+        "name": "TUBAN",
+        "zipcode": "80361"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2010",
+        "name": "BENGKALA",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2009",
+        "name": "BILA",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2003",
+        "name": "BONTIHING",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2012",
+        "name": "BUKTI",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2008",
+        "name": "BULIAN",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2006",
+        "name": "DEPEHA",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2011",
+        "name": "KUBUTAMBAHAN",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2013",
+        "name": "MENGENING",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2002",
+        "name": "PAKISAN",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2004",
+        "name": "TAJUN",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2001",
+        "name": "TAMBAKAN",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2007",
+        "name": "TAMBLANG",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "51.08.08",
+        "code": "51.08.08.2005",
+        "name": "TUNJUNG",
+        "zipcode": "81172"
+    },
+    {
+        "district_id": "14.07.01",
+        "code": "14.07.01----",
+        "name": "BAN",
+        "zipcode": "80853"
+    },
+    {
+        "district_id": "14.07.01",
+        "code": "14.07.01----",
+        "name": "BATU RINGGIT",
+        "zipcode": "80853"
+    },
+    {
+        "district_id": "14.07.01",
+        "code": "14.07.01----",
+        "name": "DUKUH",
+        "zipcode": "80853"
+    },
+    {
+        "district_id": "14.07.01",
+        "code": "14.07.01----",
+        "name": "KUBU",
+        "zipcode": "80853"
+    },
+    {
+        "district_id": "14.07.01",
+        "code": "14.07.01----",
+        "name": "SUKADANA",
+        "zipcode": "80853"
+    },
+    {
+        "district_id": "14.07.01",
+        "code": "14.07.01----",
+        "name": "TIANYAR BARAT",
+        "zipcode": "80853"
+    },
+    {
+        "district_id": "14.07.01",
+        "code": "14.07.01----",
+        "name": "TIANYAR TENGAH",
+        "zipcode": "80853"
+    },
+    {
+        "district_id": "14.07.01",
+        "code": "14.07.01----",
+        "name": "TIANYAR TIMUR",
+        "zipcode": "80853"
+    },
+    {
+        "district_id": "14.07.01",
+        "code": "14.07.01----",
+        "name": "TULAMBEN",
+        "zipcode": "80853"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2014",
+        "name": "AKAH",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2003",
+        "name": "GELGEL",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2005",
+        "name": "JUMPAI",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2007",
+        "name": "KAMASAN",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2004",
+        "name": "KAMPUNG GELGEL",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2015",
+        "name": "MANDUANG",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2001",
+        "name": "SATRA",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2016",
+        "name": "SELAT",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2018",
+        "name": "SELISIHAN",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.1008",
+        "name": "SEMARAPURA KAJA",
+        "zipcode": "80712"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.1011",
+        "name": "SEMARAPURA KANGIN",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.1009",
+        "name": "SEMARAPURA KAUH",
+        "zipcode": "80713"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03----",
+        "name": "SEMARAPURA KLOD KANGIN",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03----",
+        "name": "SEMARAPURA KLOD\/KELOD",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.1010",
+        "name": "SEMARAPURA TENGAH",
+        "zipcode": "80711"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2006",
+        "name": "TANGKAS",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2017",
+        "name": "TEGAK",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.05.03",
+        "code": "51.05.03.2002",
+        "name": "TOJAN",
+        "zipcode": "80716"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2020",
+        "name": "ABANG SONGAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2013",
+        "name": "ABUAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2032",
+        "name": "AWAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2042",
+        "name": "BANTANG",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2012",
+        "name": "BANUA",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2022",
+        "name": "BATU DINDING",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2035",
+        "name": "BATUKAANG",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2026",
+        "name": "BATUR SELATAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2027",
+        "name": "BATUR TENGAH",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2028",
+        "name": "BATUR UTARA",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2008",
+        "name": "BAYUNGCERIK",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2016",
+        "name": "BAYUNGGEDE",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2010",
+        "name": "BELANCAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2048",
+        "name": "BELANDINGAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2034",
+        "name": "BELANGA",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2036",
+        "name": "BELANTIH",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2002",
+        "name": "BINYAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2014",
+        "name": "BONYOH",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2019",
+        "name": "BUAHAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2004",
+        "name": "BUNUTIN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2037",
+        "name": "CATUR",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2031",
+        "name": "DAUP",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2041",
+        "name": "DAUSA",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2033",
+        "name": "GUNUNGBAU",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2011",
+        "name": "KATUNG",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2018",
+        "name": "KEDISAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2029",
+        "name": "KINTAMANI",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2044",
+        "name": "KUTUH",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2005",
+        "name": "LANGGAHAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2006",
+        "name": "LEMBEAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2009",
+        "name": "MANGGUH",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2007",
+        "name": "MANIKLIYU",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2001",
+        "name": "MENGANI",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2038",
+        "name": "PENGEJARAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2047",
+        "name": "PINGGAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2040",
+        "name": "SATRA",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2015",
+        "name": "SEKAAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2017",
+        "name": "SEKARDADI",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2039",
+        "name": "SELULUNG",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04----",
+        "name": "SERAHI",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04----",
+        "name": "SIYAKIN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2024",
+        "name": "SONGAN A",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2025",
+        "name": "SONGAN B",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2045",
+        "name": "SUBAYA",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2043",
+        "name": "SUKAWANA",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2021",
+        "name": "SUTER",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2023",
+        "name": "TERUNYAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.06.04",
+        "code": "51.06.04.2003",
+        "name": "ULIAN",
+        "zipcode": "80652"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2013",
+        "name": "BATUAJI",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2010",
+        "name": "BATURITI",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2004",
+        "name": "BELUMBANG",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2002",
+        "name": "KELATING",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2006",
+        "name": "KERAMBITAN",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2014",
+        "name": "KESIUT",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2009",
+        "name": "KUKUH",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2011",
+        "name": "MELILING",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2007",
+        "name": "PANGKUNG KARUNG",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2003",
+        "name": "PENARUKAN",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2008",
+        "name": "SAMSAM",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2012",
+        "name": "SEMBUNG GEDE",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04----",
+        "name": "TIBU BIU (TIBUBIYU)",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2015",
+        "name": "TIMPAG",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.04",
+        "code": "51.02.04.2005",
+        "name": "TISTA",
+        "zipcode": "82161"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2014",
+        "name": "ABIAN TUWUNG",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2015",
+        "name": "BANJAR ANYAR",
+        "zipcode": "82123"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2003",
+        "name": "BELALANG",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2001",
+        "name": "BENGKEL",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2004",
+        "name": "BERABAN",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2005",
+        "name": "BUWIT",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2006",
+        "name": "CEPAKA",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2007",
+        "name": "KABA-KABA",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2013",
+        "name": "KEDIRI",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2008",
+        "name": "NYAMBU",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2011",
+        "name": "NYITDAH",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2009",
+        "name": "PANDAK BANDUNG",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2010",
+        "name": "PANDAK GEDE",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2002",
+        "name": "PANGKUNG TIBAH",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.02.06",
+        "code": "51.02.06.2012",
+        "name": "PEJATEN",
+        "zipcode": "82121"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04.2001",
+        "name": "BUGBUG",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04.2011",
+        "name": "BUKIT",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04.1004",
+        "name": "KARANGASEM",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04.1003",
+        "name": "PADANG KERTA",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04.2009",
+        "name": "PERTIMA",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04.2007",
+        "name": "SERAYA BARAT",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04----",
+        "name": "SERAYA TENGAH",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04.2008",
+        "name": "SERAYA TIMUR",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04.1002",
+        "name": "SUBAGAN",
+        "zipcode": "80813"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04----",
+        "name": "TEGALLINGGAH",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.07.04",
+        "code": "51.07.04.2005",
+        "name": "TUMBU",
+        "zipcode": "80811"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.2007",
+        "name": "AIR KUNING",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.2004",
+        "name": "BATUAGUNG",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.2006",
+        "name": "BUDENG",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.2010",
+        "name": "DANGIN TUKADAYA",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.1005",
+        "name": "DAUHWARU",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.1003",
+        "name": "LOLOAN TIMUR",
+        "zipcode": "82216"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.1001",
+        "name": "PENDEM",
+        "zipcode": "82211"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.2002",
+        "name": "PERANCAK",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.1009",
+        "name": "SANGKARAGUNG",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.01.05",
+        "code": "51.01.05.2008",
+        "name": "YEH KUNING",
+        "zipcode": "82218"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.1005",
+        "name": "ABIANBASE",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2009",
+        "name": "BAKBAKAN",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.1008",
+        "name": "BENG",
+        "zipcode": "80513"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.1007",
+        "name": "BITERA",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.1006",
+        "name": "GIANYAR",
+        "zipcode": "80511"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2004",
+        "name": "LEBIH",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2012",
+        "name": "PETAK",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2014",
+        "name": "PETAK KAJA",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.1003",
+        "name": "SAMPLANGAN",
+        "zipcode": "80512"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2013",
+        "name": "SERONGGA",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2010",
+        "name": "SIANGAN",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2002",
+        "name": "SIDAN",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2016",
+        "name": "SUMITA",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2011",
+        "name": "SUWAT",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2017",
+        "name": "TEGAL TUGU",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2015",
+        "name": "TEMESI",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.04.03",
+        "code": "51.04.03.2001",
+        "name": "TULIKUP",
+        "zipcode": "80515"
+    },
+    {
+        "district_id": "51.08.01",
+        "code": "51.08.01.2005",
+        "name": "BANYUPOH",
+        "zipcode": "81155"
+    },
+    {
+        "district_id": "51.08.01",
+        "code": "51.08.01.2013",
+        "name": "CELUKAN BAWANG",
+        "zipcode": "81155"
+    },
+    {
+        "district_id": "51.08.01",
+        "code": "51.08.01.2009",
+        "name": "GEROKGAK",
+        "zipcode": "81155"
+    },
+    {
+        "district_id": "51.08.01",
+        "code": "51.08.01.2007",
+        "name": "MUSI",
+        "zipcode": "81155"
+    },
+    {
+        "district_id": "51.08.01",
+        "code": "51.08.01.2010",
+        "name": "PATAS",
+        "zipcode": "81155"
+    },
+    {
+        "district_id": "51.08.01",
+        "code": "51.08.01.2002",
+        "name": "PEJARAKAN",
+        "zipcode": "81155"
+    },
+    {
+        "district_id": "51.08.01",
+        "code": "51.08.01.2004",
+        "name": "PEMUTERAN",
+        "zipcode": "81155"
+    }
+]

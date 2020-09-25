@@ -36,19 +36,6 @@ class Baru extends Controller
             fclose($handle);
         }
 
-
-        /* =================================================================================================*/
-        // check kecil gede sama atau ga
-        // $latiung_json = array_slice($villages, 0, 1);
-        // $latiung_excel = array_slice($zipcode, 49097, 1);
-        // if (($latiung_excel[0]['Kelurahan/village']) == ($latiung_json[0]['name'])) {
-        //     echo "sama";
-        // } else {
-        //     echo "gasama";
-        // }
-        /* =================================================================================================*/
-
-
         //ambil data yg excel
         $merge = array();
         $sample_excel = array_slice($zipcode, $request->start, $request->jumlah);
@@ -64,15 +51,6 @@ class Baru extends Controller
         fclose($output);
         // return $out;
         return view('welcome', ['nama' => $request->output,])->with('success', 'done!');
-
-        /* =================================================================================================*/
-        // ambil data yg json
-        // $sample_json = array_slice($villages, 0, 9500);
-        // dd($sample_json);
-        // foreach ($sample_json as $json) {
-        //     echo $json['name'] . '<br>';
-        // }
-        /* =================================================================================================*/
     }
 
     public function search_json($snitch, $post, $seeker)
@@ -170,9 +148,6 @@ class Baru extends Controller
                     $ketemu = 0;
                 }
             }
-            // else{
-            //     return (strlen($data['code']));
-            // }
         }
         if ($ketemu == 0) {
             $distric = $snitch['district_id'];

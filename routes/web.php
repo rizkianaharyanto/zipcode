@@ -16,6 +16,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/province', 'Pro@search');
+Route::get('/kab', 'Kab@search');
+Route::get('/kec', 'Kec@search');
+Route::get('/des', 'Des@search');
 Route::get('/baru', 'Baru@search');
 Route::get('/dis', 'Baru@searchdis');
 

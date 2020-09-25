@@ -68,7 +68,7 @@
 </head>
 
 <body>
-    <div class="flex-center">
+    <!-- <div class="flex-center">
         @if(!empty($success))
         <h1 style="color:blue">
             {{$nama}}
@@ -102,104 +102,77 @@
             nama file output : <input type="text" name="outputfix">
             <button type="submit">run</button>
         </form>
-    </div>
-
-
-    <!-- </div>
-    <div class="flex-center">
-        @if(!empty($success))
-        {{ $success }}
-        @else
-        <a href="/zipcode" style="margin:20px;">zipcode</a>
-        @endif
-        @if(!empty($success1))
-        {{ $success1 }}
-        @else
-        <a href="/zipcode1" style="margin:20px;">zipcode1</a>
-        @endif
-        @if(!empty($success2))
-        {{ $success2 }}
-        @else
-        <a href="/zipcode2" style="margin:20px;">zipcode2</a>
-        @endif
-        @if(!empty($success3))
-        {{ $success3 }}
-        @else
-        <a href="/zipcode3" style="margin:20px;">zipcode3</a>
-        @endif
-        @if(!empty($success4))
-        {{ $success4 }}
-        @else
-        <a href="/zipcode4" style="margin:20px;">zipcode4</a>
-        @endif
-        @if(!empty($success5))
-        {{ $success5 }}
-        @else
-        <a href="/zipcode5" style="margin:20px;">zipcode5</a>
-        @endif
-        @if(!empty($success6))
-        {{ $success6 }}
-        @else
-        <a href="/zipcode6" style="margin:20px;">zipcode6</a>
-        @endif
-        @if(!empty($success7))
-        {{ $success7 }}
-        @else
-        <a href="/zipcode7" style="margin:20px;">zipcode7</a>
-        @endif
-        @if(!empty($success8))
-        {{ $success8 }}
-        @else
-        <a href="/zipcode8" style="margin:20px;">zipcode8</a>
-        @endif
-    </div>
-    <div class="flex-center">
-        @if(!empty($successdis))
-        {{ $successdis }}
-        @else
-        <a href="/district" style="margin:20px;">district</a>
-        @endif
-        @if(!empty($successdis1))
-        {{ $successdis1 }}
-        @else
-        <a href="/district1" style="margin:20px;">district1</a>
-        @endif
-        @if(!empty($successdis2))
-        {{ $successdis2 }}
-        @else
-        <a href="/district2" style="margin:20px;">district2</a>
-        @endif
-        @if(!empty($successdis3))
-        {{ $successdis3 }}
-        @else
-        <a href="/district3" style="margin:20px;">district3</a>
-        @endif
-        @if(!empty($successdis4))
-        {{ $successdis4 }}
-        @else
-        <a href="/district4" style="margin:20px;">district4</a>
-        @endif
-        @if(!empty($successdis5))
-        {{ $successdis5 }}
-        @else
-        <a href="/district5" style="margin:20px;">district5</a>
-        @endif
-        @if(!empty($successdis6))
-        {{ $successdis6 }}
-        @else
-        <a href="/district6" style="margin:20px;">district6</a>
-        @endif
-        @if(!empty($successdis7))
-        {{ $successdis7 }}
-        @else
-        <a href="/district7" style="margin:20px;">district7</a>
-        @endif
-        @if(!empty($successdis8))
-        {{ $successdis8 }}
-        @else
-        <a href="/district8" style="margin:20px;">district8</a>
-        @endif
     </div> -->
+    <div class="flex-center">
+        @if(!empty($province))
+        <h1 style="color:blue">
+            {{$nama}}
+            {{ $province }}
+        </h1>
+        @endif
+        
+        @if(!empty($kab))
+        <h1 style="color:blue">
+            {{$nama}}
+            {{ $kab }}
+        </h1>
+        @endif
+        
+        @if(!empty($kec))
+        <h1 style="color:blue">
+            {{$nama}}
+            {{ $kec }}
+        </h1>
+        @endif
+        
+        @if(!empty($des))
+        <h1 style="color:blue">
+            {{$nama}}
+            {{ $des }}
+        </h1>
+        @endif
+    </div>
+    <div class="flex-center">
+        <h1>Province</h1>
+        <form style="margin:20px" action="/province" method="get">
+            @csrf
+            nama file output : <input type="text" name="output">
+            start : <input type="text" name="start">
+            jumlah : <input type="text" name="jumlah">
+            <button type="submit">run</button>
+        </form>
+    </div>
+    
+    <div class="flex-center">
+        <h1>Kabupaten</h1>
+        <form style="margin:20px" action="/kab" method="get">
+            @csrf
+            nama file input : <input type="text" name="output">
+            nama file output : <input type="text" name="outputfix">
+            <button type="submit">run</button>
+        </form>
+    </div>
+    
+    <div class="flex-center">
+        <h1>Kecamatan</h1>
+        <form style="margin:20px" action="/kec" method="get">
+            @csrf
+            nama file input : <input type="text" name="output">
+            nama file output : <input type="text" name="outputfix">
+            <button type="submit">run</button>
+        </form>
+    </div>
+    
+    <div class="flex-center">
+        <h1>Desa</h1>
+        <form style="margin:20px" action="/des" method="get">
+            @csrf
+            nama file input : <input type="text" name="output">
+            nama file output : <input type="text" name="outputfix">
+            <button type="submit">run</button>
+        </form>
+    </div>
+
 </body>
 
 </html>
